@@ -12,3 +12,4 @@ Programming is the closest thing we have to magic in real life. This is a collec
   - [Rewriting the Technical Interview](https://aphyr.com/posts/353-rewriting-the-technical-interview) (Closure)
   - [Unifying the Technical Interview](https://aphyr.com/posts/354-unifying-the-technical-interview) (Prolog)
 - [Oxidizing the technical interview](https://blog.mgattozzi.dev/oxidizing-the-technical-interview/) (Rust) - Inspired by the above technical interviews
+- [“Truly Hygienic” Let Statements in Rust](https://sabrinajewson.org/blog/truly-hygienic-let) (Rust)
